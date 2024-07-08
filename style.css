@@ -1,0 +1,15 @@
+h1 { color: red; }
+p { color: blue; }
+
+.hello {
+color: red;
+}
+ .sheep {
+color: orange;
+}
+
+.gradient {
+background: linear-gradient(to right , #38a092 , #fdbf3b);
+color: pink;
+}
+
